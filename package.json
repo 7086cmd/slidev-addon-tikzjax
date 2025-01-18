@@ -1,0 +1,20 @@
+{
+  "name": "slidev-addon-tikzjax",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "devDependencies": {
+    "@slidev/cli": "https://pkg.pr.new/slidevjs/slidev/@slidev/cli@46b4727",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "vue": "^3.5.13",
+    "@slidev/types": "https://pkg.pr.new/slidevjs/slidev/@slidev/types@46b4727"
+  },
+  "dependencies": {
+    "node-tikzjax": "^1.0.3"
+  }
+}
