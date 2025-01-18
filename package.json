@@ -1,7 +1,8 @@
 {
   "name": "slidev-addon-tikzjax",
   "type": "module",
-  "private": true,
+  "version": "0.1.0",
+  "description": "Slidev addon tikzjax",
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
@@ -16,5 +17,7 @@
   },
   "dependencies": {
     "node-tikzjax": "^1.0.3"
-  }
+  },
+  "author": "Ethan Goh (Wu) <7086cmd@gmail.com>",
+  "license": "MIT"
 }

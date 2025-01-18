@@ -11,7 +11,7 @@
 
 This project utilizes [node-tikzjax](https://www.npmjs.com/package/node-tikzjax/v/1.0.0), which can compile TeX to SVG.
 
-Thanks, @kermanx, for providing advice on writing addons!
+Thanks, @_kerman, for providing advice on writing addons!
 
 ## License
 
